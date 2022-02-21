@@ -20,7 +20,8 @@
     "prepublishOnly": "npm run test"
   },
   "dependencies": {
-    "puppeteer": "^10.0.0"
+    "puppeteer": "^10.0.0",
+    "chrome-aws-lambda": "^10.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
